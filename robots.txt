@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://amangoel.github.io/sitemap.xml
